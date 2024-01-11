@@ -1,3 +1,13 @@
+# OS: Ubuntu 14.04
+
+```shell
+apt update
+sudo apt-get install build-essential
+```
+
+I will not decrypt any file for people.
+Issues on GitHub are only to discuss about bug and/or improvement of the tool "UnSHc".
+
 # UnSHc
 UnSHc - How to decrypt SHc *.sh.x encrypted file ?
 
